@@ -87,7 +87,7 @@
 				<plugin>
 					<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 					<artifactId>android-maven-plugin</artifactId>
-					<version>3.5.0</version>
+					<version>3.6.0</version>
 
 					<configuration>
 						<sdk>
@@ -104,7 +104,7 @@
             <id>releases</id>
             <name>Releases</name>
             <url>http://m.stage.lanshizi.com:8081/nexus/content/repositories/releases/</url>
-        </repository>
+		</repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>Your Snapshot Repository</name>
